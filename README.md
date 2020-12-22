@@ -3,10 +3,8 @@ Miscellaneous scripts I used for my researches.
 
 ## References
 
-### solar_moon_scan
+|                 | < Methods |  |  | > Results |  |  | 
+|       ---       |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |
+|                 |   a   |   n2  |   1p  |   a   |   n2  |   1p  |
+| solar_moon_scan |       | #2443 |       |       | #2377, #2410 ||
 
-#### < Methods
-- #2443
-#### > Results
-- #2377
-- #2410
