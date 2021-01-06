@@ -1,0 +1,6 @@
+[submodule "ros2_test"]
+	path = ros2_test
+	url = https://github.com/kaorunishikawa/ros2_test.git
+[submodule "ros1_test"]
+	path = ros1_test
+	url = https://github.com/kaorunishikawa/ros1_test.git
