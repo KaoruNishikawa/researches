@@ -134,3 +134,6 @@ dmypy.json
 # Editor settings
 .vscode/
 *.code-workspace
+
+# development shortcuts
+*.command
