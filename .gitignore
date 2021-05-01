@@ -137,3 +137,6 @@ dmypy.json
 
 # development shortcuts
 *.command
+
+# output figures
+*.pdf
